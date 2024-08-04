@@ -9,5 +9,5 @@ The results are saved into text files.
 
 ## Installation
 ### To install:
-download the Gradient_Descent.cpp file and the "circles" directory.
+Download the Gradient_Descent.cpp file and the "circles" directory.
 The images in the "circles" directory are necessary to run the project.
